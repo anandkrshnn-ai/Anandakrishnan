@@ -42,7 +42,7 @@ I've built a cohesive multi-cloud QE portfolio that demonstrates end-to-end qual
 ## 📫 Connect with Me
 
 - **LinkedIn:** [Anandakrishnan](https://www.linkedin.com/in/anandkrshnn/)
-- **Email:** [anandkrishnan@example.com]
+- **Email:** [anandkrshnn@outlook.com]
 - **Portfolio:** [anandkrshnn-ai.github.io](https://anandkrshnn-ai.github.io)
 
 ---
