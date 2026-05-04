@@ -4,6 +4,13 @@
 
 I specialize in designing and implementing **production-grade quality architectures** for global enterprises. My mission is to shift quality left through advanced automation, resilience engineering, and intelligent, AI-driven insights.
 
+### 🌐 Personal Brand & Sovereign AI Work
+Beyond my work in enterprise QE architectures, I am deeply involved in the **Sovereign AI** ecosystem:
+- **IETF Contributor:** Drafting protocols for zero-knowledge and decentralized identity.
+- **Sovereign AI Researcher:** Developer of `local-rag`, `local-agent`, and the **PTV Protocol**.
+- **Medium Writer:** Sharing insights on the intersection of AI, privacy, and decentralized systems.
+- **Primary Account:** [@anandakrishnanD](https://github.com/anandakrishnanD) (Commit history and organic OSS contributions).
+
 Currently focused on **Cloud Modernization (GCP/AWS/Azure)** and **AI-Powered Quality Engineering**.
 
 ---
