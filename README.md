@@ -1,30 +1,30 @@
 # Hi, I'm Anandakrishnan 👋
 
-### Quality Engineering Architect | Multi-Cloud | AI-Augmented QE
+### Cloud & AI Systems Architect | Multi-Cloud | Sovereign AI & Reliability
 
-I specialize in designing and implementing **production-grade quality architectures** for global enterprises. My mission is to shift quality left through advanced automation, resilience engineering, and intelligent, AI-driven insights.
+I specialize in designing and implementing **production-grade cloud & AI architectures** for global enterprises. My mission is to build highly resilient, autonomous systems using secure agentic gates, zero-trust infrastructure, and low-latency local-first data systems.
 
 ### 🌐 Personal Brand & Sovereign AI Work
-Beyond my work in enterprise QE architectures, I am deeply involved in the **Sovereign AI** ecosystem:
+Beyond my work in enterprise cloud architectures, I am deeply involved in the **Sovereign AI** ecosystem:
 - **IETF Contributor:** Drafting protocols for zero-knowledge and decentralized identity.
 - **Sovereign AI Researcher:** Developer of `local-rag`, `local-agent`, and the **PTV Protocol**.
 - **Medium Writer:** Sharing insights on the intersection of AI, privacy, and decentralized systems.
 - **Primary Account:** [@anandakrishnanD](https://github.com/anandakrishnanD) (Commit history and organic OSS contributions).
 
-Currently focused on **Cloud Modernization (GCP/AWS/Azure)** and **AI-Powered Quality Engineering**.
+Currently focused on **Cloud Modernization (GCP/AWS/Azure)** and **Sovereign AI Agents**.
 
 ---
 
-## 🚀 Featured Quality Engineering Blueprints
+## 🚀 Featured AI & Cloud Architecture Blueprints
 
-I've built a cohesive multi-cloud QE portfolio that demonstrates end-to-end quality for modern cloud workloads:
+I've built a cohesive portfolio of proofs-of-concept demonstrating robust cloud architectures, low-latency local-first intelligence, and secure agentic consensus patterns:
 
 | Repository | Focus | Key Tech Stack |
 | :--- | :--- | :--- |
-| **[gcp-qe-architecture](https://github.com/anandkrshnn-ai/gcp-qe-architecture)** | **GCP Flagship** | Terraform, GKE, Cloud Build, k6, Chaos Toolkit |
-| **[aws-qe-architecture](https://github.com/anandkrshnn-ai/aws-qe-architecture)** | **AWS Native** | CDK, Terraform, CodePipeline, FIS, CloudWatch |
-| **[azure-qe-architecture](https://github.com/anandkrshnn-ai/azure-qe-architecture)** | **Azure Native** | Bicep, Azure Pipelines, Chaos Studio, Monitor |
-| **[ai-powered-qe](https://github.com/anandkrshnn-ai/ai-powered-qe)** | **AI-Augmented** | OpenAI, Gemini, Python, Playwright, Defect ML |
+| **[gcp-incident-analysis-demo](https://github.com/anandkrshnn-ai/gcp-incident-analysis-demo)** | **GCP Flagship** | Terraform, GKE, Cloud KMS, Vertex AI, Model Armor |
+| **[sovereign-ai-agents](https://github.com/anandkrshnn-ai/sovereign-ai-agents)** | **Agentic Intelligence** | OpenAI, Gemini, Python, Playwright, Anomaly ML |
+| **[alloydb-local-first-agent](https://github.com/anandkrshnn-ai/alloydb-local-first-agent)** | **Low-latency Data** | AlloyDB, DuckDB, Apache Arrow, Hybrid Grounding |
+| **[tamilnadu-seva-ai](https://github.com/anandkrshnn-ai/tamilnadu-seva-ai)** | **Sovereign AI** | Python, Docker, Cloud Run, Local RAG |
 
 ---
 
@@ -34,7 +34,7 @@ I've built a cohesive multi-cloud QE portfolio that demonstrates end-to-end qual
 - **Infrastructure as Code (IaC):** Terraform, Bicep, AWS CDK, Pulumi.
 - **CI/CD & DevOps:** GitHub Actions, Azure DevOps, AWS CodePipeline, Google Cloud Build.
 - **NFR Engineering:** Performance (k6, Artillery), Chaos Engineering (FIS, Chaos Studio), SLO/SLI Management.
-- **AI-Augmented QE:** LLM-driven test generation, intelligent root cause analysis, defect prediction.
+- **Sovereign AI & Agentic Verification:** LLM-driven action generation, intelligent root cause analysis, anomaly prediction.
 - **Observability:** CloudWatch, Azure Monitor, GCP Operations, Prometheus, Grafana.
 
 ---
