@@ -19,7 +19,7 @@ Currently exploring **AI agents**, **local-first architectures**, and **resilien
 | Repository | Description | Tech Stack |
 |------------|-------------|----------|
 | **[gcp-incident-analysis-demo](https://github.com/anandkrshnn-ai/gcp-incident-analysis-demo)** | AI-powered incident intelligence and autonomous remediation on GCP | Python, Terraform, LangChain, GCP |
-| **[sovereign-ai-agents](https://github.com/anandkrshnn-ai/sovereign-ai-agents)** | Framework for building sovereign and autonomous AI agents | Python, OpenAI/Gemini, Local-first |
+| **[gcp-agentic-incident-demo](https://github.com/anandkrshnn-ai/gcp-agentic-incident-demo)** | Simple educational demo for incident analysis and log parsing | Python, Gemini, Git stat |
 | **[alloydb-local-first-agent](https://github.com/anandkrshnn-ai/alloydb-local-first-agent)** | Local-first AI agent with AlloyDB | Python, AlloyDB |
 | **[tamilnadu-seva-ai](https://github.com/anandkrshnn-ai/tamilnadu-seva-ai)** | Sovereign AI initiative for public service | Python, Docker, Cloud Run, Local RAG |
 
